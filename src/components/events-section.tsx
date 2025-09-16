@@ -89,7 +89,7 @@ const EventsSection = () => {
       title: "NetworX",
       icon: Link,
       shortDesc:
-        "Connection: Find the link between images/texts, based on logic &amp; tech",
+        "Connection: Find the link between images/texts, based on logic and tech stuffs",
       fullDesc: [
         "Two to three members per team.",
         "Participants must identify common themes or patterns to recognize recurring ideas or similarities.",
