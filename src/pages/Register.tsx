@@ -654,6 +654,9 @@ const Register = () => {
                       <SelectItem value="adzap">Spotlight Snap</SelectItem>
                       <SelectItem value="pictionary">Doodle Vision</SelectItem>
                       <SelectItem value="tagline-twist">Brand Buzz</SelectItem>
+                      <SelectItem value="not-interested">
+                        Not Interested
+                      </SelectItem>
                     </SelectContent>
                   </Select>
                 </div>
