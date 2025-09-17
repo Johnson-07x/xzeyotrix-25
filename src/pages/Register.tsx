@@ -655,7 +655,7 @@ const Register = () => {
                       <SelectItem value="pictionary">Doodle Vision</SelectItem>
                       <SelectItem value="tagline-twist">Brand Buzz</SelectItem>
                       <SelectItem value="not-interested">
-                        Not Interested
+                        Not Interested ❌
                       </SelectItem>
                     </SelectContent>
                   </Select>
