@@ -17,7 +17,7 @@ import SuccessModal from "@/components/ui/SuccessModal";
 import Background3D from "@/components/ui/3d-background";
 import { useToast } from "@/hooks/use-toast";
 import { Checkbox } from "@/components/ui/checkbox";
-import qrImage from "@/assets/ragland-upi-200.jpeg";
+import qrImage from "@/assets/mathumathi-upi.jpg";
 import axios from "axios";
 
 import { createClient } from "@supabase/supabase-js";
