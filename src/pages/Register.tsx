@@ -606,9 +606,6 @@ const Register = () => {
                       <SelectValue placeholder="Select your technical event" />
                     </SelectTrigger>
                     <SelectContent>
-                      <SelectItem value="paper-presentation">
-                        Insight Expo
-                      </SelectItem>
                       <SelectItem value="tech-quiz">QuizWiz</SelectItem>
                       <SelectItem value="tech-debate">Tech Tussle</SelectItem>
                       <SelectItem value="ui-ux">Pixel Perfect</SelectItem>
@@ -630,13 +627,9 @@ const Register = () => {
                       <SelectValue placeholder="Select your non-technical event" />
                     </SelectTrigger>
                     <SelectContent>
-                      <SelectItem value="connection">NetworX</SelectItem>
                       <SelectItem value="adzap">Spotlight Snap</SelectItem>
                       <SelectItem value="pictionary">Doodle Vision</SelectItem>
                       <SelectItem value="tagline-twist">Brand Buzz</SelectItem>
-                      <SelectItem value="not-interested">
-                        Not Interested ❌
-                      </SelectItem>
                     </SelectContent>
                   </Select>
                 </div>
